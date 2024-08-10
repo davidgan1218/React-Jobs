@@ -9,4 +9,4 @@ for JSON server and then
 npm run dev
 ```
 
-Access site at localhost:3000
+Access the site at localhost:3000.
